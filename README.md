@@ -1,4 +1,4 @@
-This is a simple program that shows the multi-trheading capabilities of C++. It counts up to twenty, and then downwards back to zero.
+This is a simple program that shows the multi-threading capabilities of C++. It counts up to twenty, and then downwards back to zero.
 
 Here is the program's output:
 
