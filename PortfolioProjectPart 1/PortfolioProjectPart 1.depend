@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1700776096 source:c:\users\lastp\documents\programming\portfolioprojectpart 1\main.cpp
-	<iostream>
-	<thread>
-	<future>
-	<mutex>
-	<stdlib.h>
-
